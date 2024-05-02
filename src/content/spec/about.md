@@ -1,5 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+평범한(?) 학생 개발자 아임냥입니다.
+
+Powered by [Fuwari](https://github.com/saicaca/fuwari).
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
