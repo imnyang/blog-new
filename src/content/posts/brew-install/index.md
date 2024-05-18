@@ -3,7 +3,7 @@ title: MacOS(Linux)에서 Brew 설치하기
 published: 2023-12-16
 description: '맥에서의 패키지 관리자 HomeBrew!'
 image: 'img/preview.png'
-tags: [with_brew, Mac, Linux]
+tags: [with_Brew, Mac, Linux]
 category: 'Guide'
 draft: false 
 ---

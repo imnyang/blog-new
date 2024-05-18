@@ -11,12 +11,12 @@ export const siteConfig: SiteConfig = {
   subtitle: 'imnyang\'s Blog',
   lang: 'kr',         // 'en', 'zh_CN', 'zh_TW', 'ja'
   themeColor: {
-    hue: 360,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
-    fixed: true,     // Hide the theme color picker for visitors
+    hue: 300,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
     enable: true,
-    src: 'assets/images/banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/banner.avif',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   },
   favicon: [    // Leave this array empty to use the default favicon
     // {
