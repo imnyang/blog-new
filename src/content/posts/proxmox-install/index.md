@@ -1,8 +1,8 @@
 ---
 title: Proxmox VE 설치하기!
 published: 2024-06-04
-description: ''
-image: ''
+description: 'Proxmox VE로 간단하게 서버 가상머신 관리하는 방법을 알아보자'
+image: 'img/preview.png'
 tags: ["Linux", "Server"]
 category: 'Guide'
 draft: false 
