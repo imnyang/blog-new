@@ -11,7 +11,7 @@ draft: false
 ## 준비물
 
 1. [Proxmox VE가 설치된 서버](/posts/proxmox-ve-install/)
-2. [ISO 파일 (예시로는 우분투 서버)](https://ftp.kaist.ac.kr/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso)
+2. [ISO 파일 (예시로는 우분투 서버)](https://mirror.imnyang.xyz/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso)
 
 ![Proxmox VE Main Page](<./img/web/panel.png>)
 저번에 우리는 Proxmox VE 설정을 끝냈습니다.
@@ -20,7 +20,7 @@ draft: false
 ## Proxmox VE에 ISO 다운받기
 
 우리가 운영체제를 설치하려면 설치 디스크가 필요하듯이 VM도 똑같이 필요합니다.
-그중 ISO라는 파일이 필요한데요. 여기선 [Ubuntu Server 24.04](https://ftp.kaist.ac.kr/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso)로 해보겠습니다.
+그중 ISO라는 파일이 필요한데요. 여기선 [Ubuntu Server 24.04](https://mirror.imnyang.xyz/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso)로 해보겠습니다.
 
 먼저 Proxmox VE 패널로 접속해줍시다.
 
@@ -31,9 +31,9 @@ draft: false
 ![Download ISO](<./img/web/download-button.png>)
 이 버튼을 클릭하고
 
-`https://ftp.kaist.ac.kr/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso`
+`https://mirror.imnyang.xyz/ubuntu-cd/24.04/ubuntu-24.04-live-server-amd64.iso`
 
-원하는 ISO 링크를 넣어주세요.
+원하는 ISO 다이렉트 링크를 넣어주세요.
 
 ![Before Query](<./img/web/before-query.png>)
 
